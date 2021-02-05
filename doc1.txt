@@ -1,7 +1,9 @@
 Hello world!
 12345
-Line from user2
+Line from user1
 Good evening! (from branch master)
+add new stroka from user2
 add hyjna
+
 
 
