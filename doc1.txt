@@ -1,4 +1,6 @@
 Hello world!
 12345
+Line from user2
 Good evening! (from branch master)
+
 
