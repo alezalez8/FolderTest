@@ -6,5 +6,7 @@ add new stroka from user2
 add hyjna
 some change
 
+Line from user1 - lesson about rebase
+
 
 
