@@ -1,1 +1,3 @@
 change for commit third
+critical bug fixed
+critical bug fixed
